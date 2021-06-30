@@ -1,0 +1,14 @@
+{
+  "name": "Fish Seated",
+  "author": "dcsobral",
+  "description": "Fish while seated. Or kill seagulls. Whatever.",
+  "version": "1.0",
+  "license": "GNU AGPLv3",
+  "icon": "fishSeatedIcon.png",
+  "banner": "fishSeatedBanner.png",
+  "gameVersion": "13",
+  "requiredByAllPlayers": false,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/fishseated/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
